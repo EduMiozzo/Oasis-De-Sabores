@@ -1,2 +1,2 @@
-# Site-vovo-online
+# Site-Oasis-de-Sabores
 Site de Culinarias (Trabalho Uninove)
