@@ -70,7 +70,7 @@ footer {
 /* IMAGENS */
 ul.galeria{
     width: 932px;
-    height: 800px;
+    height: 1300px;
     margin: 0 auto;
     overflow: hidden;
     list-style: none;
@@ -171,7 +171,71 @@ ul.galeria li#foto06:hover{
     background-size: 200px 200px;
 }
 
+ul.galeria li#foto07{
+    background: url(assets/64-bk-5386-ayu2350-1-.jpg);
+    background-position: 50% 50%;
+    background-size: 300px 300px;
+    background-color: white;
+}
+ul.galeria li#foto07:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
 
+ul.galeria li#foto08{
+    background: url(assets/carne-assada-na-pressao-marinada-na-cerveja.jpg);
+    background-position: 50% 50%;
+    background-size: 300px 300px;
+    background-color: white;
+}
+ul.galeria li#foto08:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul.galeria li#foto09{
+    background: url(assets/galinha-ensopada-receita.jpg);
+    background-position: 50% 50%;
+    background-size: 300px 300px;
+    background-color: white;
+}
+ul.galeria li#foto09:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul.galeria li#foto10{
+    background: url(assets/kibe-de-forno-recheado.jpg);
+    background-position: 50% 50%;
+    background-size: 300px 300px;
+    background-color: white;
+}
+ul.galeria li#foto10:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul.galeria li#foto11{
+    background: url(assets/mousse-chocolate-arroz-receita.jpg);
+    background-position: 50% 50%;
+    background-size: 300px 300px;
+    background-color: white;
+}
+ul.galeria li#foto11:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul.galeria li#foto12{
+    background: url(assets/tiramissu.jpg);
+    background-position: 50% 50%;
+    background-size: 300px 300px;
+    background-color: white;
+}
+ul.galeria li#foto12:hover{
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
 
 
 /* Estilos para o formulário de filtro */
